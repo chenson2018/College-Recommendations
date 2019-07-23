@@ -19,6 +19,7 @@
   <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Menu</span>
 
 
+<?php  //open a pdo connection to SQL database
 $dsn = 'mysql: host=178.128.68.104;dbname=cypress;port=3306';
 $username = 'XXXX';
 $password = 'XXXX';
