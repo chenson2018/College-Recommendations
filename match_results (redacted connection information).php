@@ -20,7 +20,7 @@
 
 
 <?php  //open a pdo connection to SQL database
-$dsn = 'mysql: host=178.128.68.104;dbname=cypress;port=3306';
+$dsn = 'mysql: host=XXX.XXX.XX.XXX;dbname=cypress;port=XXXX';
 $username = 'XXXX';
 $password = 'XXXX';
 
